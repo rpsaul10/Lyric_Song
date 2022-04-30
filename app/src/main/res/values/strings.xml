@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lyric_Song</string>
+    <string name="track">Song Name</string>
+    <string name="artist">Artist Name</string>
+    <string name="search">Search Song</string>
+    <string name="lyricsNotAvailable">Lyrics not available, try with another song</string>
+    <string name="forbiddenLyrics">Forbidden lyrics, try with another song</string>
+    <string name="successfulDownload">Lyrics downloaded successfully</string>
+</resources>
